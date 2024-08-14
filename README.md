@@ -38,7 +38,7 @@ Here's what you'll find in this repository:
 
 Check out this GIF showing an example of Web 3.0 applications in action:
 
-![Web 3.0 Overview](assets/web3-overview.gif)
+![Web 3.0 Overview](web3.gif)
 
 Here’s a screenshot of the key findings from the research:
 
